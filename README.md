@@ -1,6 +1,4 @@
-# 💡 Tableau Project by Yash Yennewar
-
-# **Product Sales Analytics Dashboard**
+# **Product Sales Analytics**
 Interactive Tableau dashboards analyzing US product sales with insights on revenue, profit, and category trends across regions and cities.
 
 ## 📂 Project Link
