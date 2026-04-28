@@ -2,7 +2,7 @@
 Interactive Tableau dashboards analyzing US product sales with insights on revenue, profit, and category trends across regions and cities.
 
 ## 📂 Project Link
-<a href ="https://public.tableau.com/views/Product_Sales_Analysis_17582747822850/DataStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Product Sales Analytics</a>
+<a href ="[https://public.tableau.com/views/Product_Sales_Analysis_17582747822850/DataStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Product_Sales_Analysis_17774122122010/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">Product Sales Analytics</a>
 
 ## 📂 Dataset Source
 <a href ="https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024">Product Sales Dataset (2023-2024)</a>
